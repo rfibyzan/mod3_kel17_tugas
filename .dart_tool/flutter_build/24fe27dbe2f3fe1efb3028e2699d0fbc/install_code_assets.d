@@ -1,0 +1,1 @@
+ D:\\Kodingan\\Flutter\\mod3_kel17\\.dart_tool\\flutter_build\\24fe27dbe2f3fe1efb3028e2699d0fbc\\native_assets.json: 
